@@ -13,6 +13,7 @@ MIT App Inventor を利用して、スマートフォンアプリ開発
 
 ## Start Programming
 * http://ai2.appinventor.mit.edu/
+* http://appinventor.mit.edu/explore/ai2/hellopurr.html
 
 ## Quirky Linux 7.1
 a USB boot linux with AppInventor inside
