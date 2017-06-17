@@ -12,8 +12,8 @@ MIT App Inventor を利用して、スマートフォンアプリ開発
 2. Download and install the MIT AI2 Companion App on your phone. (option) http://appinventor.mit.edu/explore/ai2/setup-device-wifi.html
 
 ## Start Programming
-* http://ai2.appinventor.mit.edu/
-* http://appinventor.mit.edu/explore/ai2/hellopurr.html
+* [AI2 Home](http://ai2.appinventor.mit.edu/)
+* [Hello Purr](http://appinventor.mit.edu/explore/ai2/hellopurr.html)
 
 ## Quirky Linux 7.1
 a USB boot linux with AppInventor inside
