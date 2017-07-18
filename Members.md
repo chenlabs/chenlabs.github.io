@@ -4,11 +4,11 @@
 ## 2018
 * [于宛荻](https://ywd0511.wordpress.com/), [yuwandi](https://github.com/yuwandi) 
 * [VU LE HUY](https://ywd0511.wordpress.com/), [yuwandi](https://github.com/yuwandi) 
-* [魏小強](https://ywd0511.wordpress.com/), [yuwandi](https://github.com/yuwandi) 
-* [黄存貴](https://ywd0511.wordpress.com/), [yuwandi](https://github.com/yuwandi) 
+* [魏小強](https://reallwei.wordpress.com/), [reallwei](https://github.com/reallwei) 
+* [黄存貴](https://huangcungui1112.wordpress.com/), [huangcungui1112](https://github.com/huangcungui1112) 
 * [馬金文](https://ywd0511.wordpress.com/), [yuwandi](https://github.com/yuwandi) 
 * [劉峰銘](https://ywd0511.wordpress.com/), [yuwandi](https://github.com/yuwandi) 
-* [LIMBU KRISHNA BAHADUR](https://ywd0511.wordpress.com/), [yuwandi](https://github.com/yuwandi) 
+* [LIMBU KRISHNA BAHADUR](https://thamden.wordpress.com/), [krishnalimbu](https://github.com/krishnalimbu) 
 
 ## 2017
 * [于照涵](https://14te406wordpress.wordpress.com), [14te406](https://14te406.github.io)
