@@ -1,4 +1,5 @@
 # Members
+* Name link to Wordpress URL, GitHub URL
 
 ## 2018
 * [于宛荻](https://ywd0511.wordpress.com/), [github](https://github.com/yuwandi) 
